@@ -1,0 +1,1 @@
+zsh-output-highlighting.zsh
