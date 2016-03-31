@@ -90,6 +90,7 @@ cat sed awk grep() {
           *Gemfile) syntax="ruby";;
           *Gemfile.lock) syntax="ruby";;
           *.scala) syntax="scala";;
+          *.sbt) syntax="scala";;
           *.sh)   syntax="bash";;
           *.bash) syntax="bash";;
           *.zsh)  syntax="bash";;
